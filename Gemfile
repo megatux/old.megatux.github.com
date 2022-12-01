@@ -17,4 +17,4 @@ group :development do
   gem 'liquid'
 end
 
-gem 'sinatra', '~> 1.4.8'
+gem 'sinatra', '~> 2.2.3'
